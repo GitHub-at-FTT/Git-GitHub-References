@@ -3,6 +3,7 @@ Git &amp; GitHub References
 
 ## Book:
 https://books.goalkicker.com/GitBook/
+Notes for Professionals
 
 ## Cheat Sheet:
 
